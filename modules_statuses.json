@@ -1,0 +1,9 @@
+{
+    "Bime": true,
+    "UsersBime": true,
+    "Specialties": true,
+    "Doctor": true,
+    "Patient": true,
+    "Reception": true,
+    "Patientreception": true
+}

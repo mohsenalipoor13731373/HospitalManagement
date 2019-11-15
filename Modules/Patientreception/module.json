@@ -1,0 +1,13 @@
+{
+    "name": "Patientreception",
+    "alias": "patientreception",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Patientreception\\Providers\\PatientreceptionServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

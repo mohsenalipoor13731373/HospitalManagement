@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/patientreception",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Patientreception\\Providers\\PatientreceptionServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Patientreception\\": ""
+        }
+    }
+}
